@@ -1,0 +1,5 @@
+name: RegionVanish
+description: RegionVanish
+main: com.connorlinfoot.regionvanish.Main
+depend: WorldGuard
+version: 1.0
